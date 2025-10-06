@@ -1,0 +1,11 @@
+# Editor
+.vscode/
+
+# Build outputs / binaries
+*.o
+*.out
+*.exe
+snake
+simple-snake-game-144p
+build/
+.DS_Store
